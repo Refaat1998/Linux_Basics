@@ -1,0 +1,21 @@
+Four programs:
+
+first (pwd):
+1- compile it with (gcc -o pwd pwd.c)
+2- run it (./pwd)
+3- print the current working directory.
+
+second (echo):
+1- compile it with (gcc -o echo echo.c)
+2- run it (./echo hello world)
+3- print (hello world).
+
+third(cp)
+1- compile it with (gcc -o cp cp.c)
+2- run it (./cp file1.txt file2.txt)
+3- copy the content of file1.txt to file2.txt.
+
+fourth(mv)
+1- compile it with (gcc -o mv mv.c)
+2- run it (./mv file1.txt file4.txt)
+3- copy the content of file1 to file4 then remove the original one. 
