@@ -1,0 +1,15 @@
+To compile file:
+gcc main.c
+
+To run executable:
+./a.out
+
+Example:
+
+1- ./a.out
+2- abdelrahmanRefaat > hello
+3- hello
+4- abdelrahmanRefaat > bind
+5- bind
+6- abdelrahmanRefaat > exit
+7- Goodbye
